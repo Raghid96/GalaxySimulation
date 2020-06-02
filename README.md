@@ -1,2 +1,2 @@
-# Java
-Java Projects 
+# Galsim 
+It is a program that simulates
